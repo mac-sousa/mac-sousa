@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 
 ## 👾
 
-![snake svg](https://github.com/TsvetanG2/TsvetanG2/blob/output/github-contribution-grid-snake-dark.svg)
+![snake svg](https://github.com/mac-sousa/mac-sousa/blob/main/profile/github-contribution-grid-snake-dark.svg)
