@@ -1,20 +1,20 @@
 
 **` Software Developer Student  `** ![](https://komarev.com/ghpvc/?username=mac-sousa&color=blueviolet)
 
- <p align="center">
-    <a href="https://github.com/mac-sousa">
-      <img height="20" src="https://img.shields.io/github/followers/mac-sousa?label=follow&color=purple&logo=github&style=flat" />
-    </a>
-  </p>
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD0D2C&width=435&lines=IT+professional%7CEvolving+developer" alt="Typing SVG" /></a>
+  <a href="https://github.com/mac-sousa">
+    <img height="20" src="https://img.shields.io/github/followers/mac-sousa?label=follow&color=purple&logo=github&style=flat" />
+  </a>
 </p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD0D2C&width=435&lines=IT+professional%7CApprentice+developer" alt="Typing SVG" />
+</a>
 
 
 <p align="center">
   <a href="https://github.com/mac-sousa">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mac-sousa?color=8B0000&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mac-sousa?color=8B0000&labelColor=000000&style=for-the-badge&logo=person-       add&label=Followers&logoColor=white"/></a>
   <a href="https://github.com/mac-sousa?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mac-sousa?color=800080&style=for-the-badge&labelColor=000000&logo=star"/></a>
 </p>
@@ -23,7 +23,7 @@
   <a href="https://instagram.com/_macsousa">You can Support Me By Clicking Here!</a>
 </p>
 
-## 🧰&nbsp;**`Tech Stack`**
+## ☕︎+⏱+💻࣪࣪&nbsp;**`Tech Stack`**
 ### **`Languages and Tools`**
 | Python3 | HTML | CSS | JavaScript | PHP | Oracle |
 |----------|----------|----------|--------|----------|----------|
